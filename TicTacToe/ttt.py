@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  6 16:11:35 2022
 
-@author: Lili
-"""
 
 import numpy as np
 import pygame
